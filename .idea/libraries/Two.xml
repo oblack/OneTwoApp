@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Two">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Two/out/artifacts/Two_jar/Two.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
